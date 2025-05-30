@@ -18,4 +18,4 @@ The dashboard was built using the following tools and technologies:<br>
 • Used different types of customised visualisation (bar chart , pie chart , donut chart, clustered bar chart, slicers,etc ).<br>
 
 ### 6.	Screenshots / Demos
- ![Dashboard Preview][(https://github.com/vidyaVirgo1994/E-Commerce-Sales/blob/main/Snapshoot%20of%20Sales%20Dashboard.JPG)
+ ![Dashboard Preview](https://github.com/vidyaVirgo1994/E-Commerce-Sales/blob/main/Snapshoot%20of%20Sales%20Dashboard.JPG)
